@@ -1,0 +1,17 @@
+@charset "UTF-8";
+.top-100{
+	margin-top: 100px;
+}
+
+.top-6{
+	margin-top: 6px;
+}
+
+.chill{
+	position: relative;
+  	top: 0;
+  	height: calc(100vh - 48px);
+ 	padding-top: 0.5rem;
+ 	overflow-x: hidden;
+  	overflow-y: auto;
+}
